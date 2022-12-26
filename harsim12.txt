@@ -1,0 +1,2 @@
+Car Company				Car Model			  Year					 Car Number				 Number of days			   Rental fee
+A				         A				      2015				      1234				        49 days			       Rs.132300
